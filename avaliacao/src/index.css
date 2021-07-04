@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(208, 176, 235);
+  font-size: 1.5rem;
+  font-family: cursive;
+  color: rgb(17, 17, 17);
+  margin: 140px;
+  
+  }
+  
+ .index{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+ } 
+
+.linha{
+    display: flex;
+}  
